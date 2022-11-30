@@ -5,6 +5,8 @@ border-style: dotted;
 
 padding-left: 0%;
 
+
+
 width: 50%;
 
 margin: auto;
@@ -16,4 +18,10 @@ text-align: center;
    border-style: ridge;
 
    display: inline-block;
+}
+
+img {
+   width: 30%;
+   
+   height: 30%;
 }
